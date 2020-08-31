@@ -190,22 +190,3 @@ ul li.slider-active .down-decor-down-2 {animation-delay:0.4s;}
 
 .btn-change-slide ul {display: inline;} 
 
-/*Mobile*/
-@media only screen and (max-width: 600px) {
-   *{}
-
-.bg-slder .contain-text {
-    width: 100%;
-    /* margin: 0.5rem auto; */
-    left: 4%;
-    /* right: 7%; */
-    /* padding-right: 1px; */
-    top: 50%;
-    transform: translateY(-50%);
-}
-
-.bg-slder img {
-    display: none;
-}
-
-  }
